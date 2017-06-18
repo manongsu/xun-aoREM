@@ -1,6 +1,6 @@
 function flex() {
     var width = $(window).width();
-    if(width<=414){
+    if(width<=540){
         $("html").css("fontSize",width/10);
     }
 
